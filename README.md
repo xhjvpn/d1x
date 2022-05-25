@@ -2,12 +2,7 @@
 脚本需要在linux服务器SSH终端执行
 <div align=center>
  
-# Aura DDoS
-
-瞎搞
- 
-
-
+# 瞎搞
 
 ##  Linux
 ```sh
